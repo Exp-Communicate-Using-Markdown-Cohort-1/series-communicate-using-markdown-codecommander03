@@ -1,19 +1,30 @@
-# a
-## a
-### a
-# This is an `<h1>` header, which is the largest
-## This is an `<h2>` header
-###### This is an `<h6>` header, which is the smallest
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+**Note: Headings have to be followed by a space below them**
+
+![kenedy olisi profile image](https://avatars.githubusercontent.com/u/66219869?v=4)
+
+```javascript
+for (var i = 0; i < 5; i++) {
+  setTimeout(() => console.log(i), 1000) // prints 5, 5 times
+}
 ```
 
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+## Add a task list
 
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+### My Frontend Development Roadmap checklist
+
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [ ] Markdown
+- [ ] React
